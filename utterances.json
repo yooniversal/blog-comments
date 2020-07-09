@@ -2,7 +2,3 @@
 {
   "origins": ["https://yooniversal.github.io"]
 }
-
-.utterances {
-    max-width: 100% !important;
-}
